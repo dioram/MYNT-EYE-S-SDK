@@ -3,6 +3,8 @@
 .vs/
 .vscode/
 
+/CMakeSettings.json
+
 _build/
 _install/
 _output/
